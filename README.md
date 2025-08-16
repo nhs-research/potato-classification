@@ -20,6 +20,6 @@ The processed dataset can be accessed <a href='https://drive.google.com/drive/fo
 * Achieved 97.91% accuracy on test data
 * XAI integration results in the interpretability enhancement through heatmaps and saliency maps
 
-# Citatiom
+# Citation
 If you use this code in your research, please cite:
 * N. H. Shabrina, S. Indarti, Irmawati, D. A. Kristiyanti, N. Prastomo, and T. Adillah. (2025). Explainable ensemble deep learning for potato leaf pest and diseases identification. International Journal of Advances in Soft Computing and its Application, 17(2), 159–180. https://doi.org/10.15849/IJASCA.250730.09
